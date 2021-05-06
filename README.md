@@ -1,5 +1,5 @@
 This repositoriy include tasks by topic:
-Linear program;
+# Linear program;
 Branching;
 Cycles;
 One-dimensional arrays;
