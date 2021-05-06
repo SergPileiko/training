@@ -1,4 +1,4 @@
-This repositoriy include tasks by topic:
+This repository includes tasks by topic:
 - Linear program;
 - Branching;
 - Cycles;
